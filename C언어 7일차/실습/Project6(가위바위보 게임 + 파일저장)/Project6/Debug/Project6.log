@@ -1,0 +1,8 @@
+﻿  소스.c
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(126,8): error C2374: 'fp': 재정의. 여러 번 초기화했습니다.
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(30): message : 'fp' 선언을 참조하십시오.
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(27,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(30,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(33,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(129,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\azx1593\source\repos\Project6\Project6\소스.c(143,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

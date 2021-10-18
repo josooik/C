@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\azx1593\source\repos\Team_Project\Team_Project\소스.c(74,10): warning C4101: 'line' :참조되지 않은 지역 변수입니다.
+C:\Users\azx1593\source\repos\Team_Project\Team_Project\소스.c(75,11): warning C4101: 'ptr' :참조되지 않은 지역 변수입니다.
+C:\Users\azx1593\source\repos\Team_Project\Team_Project\소스.c(76,9): warning C4101: 'word_cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\azx1593\source\repos\Team_Project\Team_Project\소스.c(152,17): warning C4098: 'update_book_count': 'void' 함수에서 값을 반환하고 있습니다.
+  Team_Project.vcxproj -> C:\Users\azx1593\source\repos\Team_Project\Debug\Team_Project.exe
